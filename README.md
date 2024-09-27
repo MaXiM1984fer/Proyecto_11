@@ -11,3 +11,5 @@ Para este proyecto se utilizó Python como lenguaje principal y se importaron la
 - Pandas para la manipulación de la data.
 - matplotlib y plotly para la generación de gráficos.
 - scipy para la aplicación de pruebas de significación estadística.
+
+Para poder visualizar el proyecto, ejecutar el archivo 'Sprint_11_Project_FOJEDA.ipynb' directamente en Github o descargarlo y ejecutarlo a través de cualquier IDE de Python (VS Code, PyCharm, IDLE, etc.).
